@@ -1,0 +1,2 @@
+# PassShifter-Bulk-Password-Rotator-for-Shahid-Accounts-GUI-Selenium-
+PassShifter is a PySide6-based desktop GUI tool that automates changing passwords for multiple Shahid.net accounts using Selenium WebDriver. Users can input a credentials file, choose a new password, and export the updated credentials—all in a clean, dark-themed interface. Multithreaded execution ensures the GUI stays responsive during processing.
